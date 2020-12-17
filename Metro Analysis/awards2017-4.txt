@@ -1,0 +1,266 @@
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Gabbie Sansone (Esmeralda)
+Brewster HS,Mary Poppins,Megan Campbell (Mary Poppins)
+Immaculate Conception HS,The Little Mermaid,Rachel Zegler (Ariel)
+River Dell HS,Beauty and the Beast,Jordan Auriemma (Belle)
+St. Joseph Reg. HS,West Side Story,Emma Piazza (Maria)
+Valhalla HS,Bye Bye Birdie,Kyra Hickey (Rosie Alvarez
+Academy of the Holy Angels,Mystery of Edwin Drood,Patrick Buckley (Clive Paget/John Jasper)
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Jeremy Fuentes (Quasimodo)
+Harrison HS,The Addams Family,Timothy Morris (Gomez)
+North Rockland HS,Les Miserables,Salvatore Castronovo (Javert)
+Putnam Valley HS,Billy Elliot,James Caposito (Billy Elliot)
+Rye HS,Fiddler on the Roof,Owen Glassberg (Tevye)
+Brewster HS,Mary Poppins,Erin Vaughan (Winifred Banks)
+Hastings HS,Urinetown,Anna Heubert,Aubry (Little Sally)
+Mount Vernon HS,Raisin,Calilah Hines (Beneatha Younger)
+Northern Valley HS Old Tappan,Tarzan,Jamie Budge (Kala)
+Pleasantville HS,The Drowsy Chaperone,Carina Florio (Chaperone)
+Port Chester HS,9 to 5,Elizabeth Montemurro  (Doralee Rhodes)
+Rye Neck HS,Legally Blonde,Bria McClain (Paulette)
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Anthony Pietroluongo (Frollo)
+Brewster HS,Mary Poppins,RJ Frankenberry (Bert)
+Edgemont HS,Love’s Labour’s Lost,Caleb Bermejo (Don Armado)
+Harrison HS,The Addams Family,Nicholas Erb (Uncle Fester)
+Lakeland HS,Urinetown,Austin Fritz (Hot Blades Harry)
+Sleepy Hollow HS,Pippin,Peter Moriarty (Charles)
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Nick Tabio (Jehan Frollo)
+Mount Vernon HS,Raisin,Judah Taylor (Pastor)
+New Milford HS,Shrek the Musical,Madison Ryan (Ugly Duckling)
+Port Chester HS,9 to 5,Taylor Masi (Kathy)
+River Dell HS,Beauty and the Beast,Christopher Zaccaro  (Lumiere)
+Saddle River Day School,You’re a Good Man & Charlie Brown,Brandon Gorodorkin (Linus)
+St. Joseph Reg HS,West Side Story,Bill Fitzpatrick (Action)
+Woodlands HS,Seussical,Justin Sanchez (Wickersham Brother & Cadet & Who & Hunch)
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Congregants/Gargoyles
+Bergen County Academies,Hot Mikado,Gentlemen of Japan
+Briarcliff HS,The Boys from Syracuse,“Sing for Your Supper” Trio
+Don Bosco Prep, The Addams Family,The Ancestors
+Mount Vernon HS,Raisin,Arts Magnet Dance Students (People of the Southside)
+Northern Valley HS Old Tappan,Tarzan,Ape Ensemble
+Ramapo HS (NJ),A Funny Thing Happened…– Proteans
+River Dell HS,Beauty and the Beast,Silly Girls
+St. Joseph Reg HS,West Side Story,The Jets
+Academy of the Holy Angels,Cristian Puhlovsky (William Cartwright/Chairman)
+Mahwah HS,The Sound of Music,Matthew Retcho (Max Detweiler)
+Ramapo HS (NJ),A Funny Thing Happened..,Ethan Semendinger (Senex)
+Rockland Country Day School,Peter and the Starcatcher,Neil Macleod Stiskin (Black Stache)
+Sleepy Hollow HS,Pippin,Henry Titcomb (Pippin)
+Spring Valley HS,Nice Work If You Can Get It,Markus Boursiquot (Cookie)
+St. Joseph Reg HS,West Side Story,Vincent Simpson (Liuetenant Schrank)
+Briarcliff HS,The Boys from Syracuse,Olivia Banc (Dromeo of Syracuse)
+Hastings HS,Urinetown,Ella Blicker (Penelope Pennywise)
+Lodi HS,Cinderella,Vanessa McGibbon (Madame)
+Mount Vernon HS,Raisin,Dionysia Placide (Mama Lena)
+Port Chester HS,9 to 5,Grace Herbert (Roz)
+Rye HS,Fiddler on the Roof,Penny Deen (Hodel)
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Ryan Oates (King Louis XI)
+Blind Brook HS,Grease,Lee Price (Teen Angel)
+Brewster HS,Mary Poppins,Martina Rossi (Bird Woman)
+Don Bosco Prep,The Addams Family,Patrick Moriarty (Lurch)
+Harrison HS,The Addams Family,Elijah Gropper (Lurch)
+New Milford HS,Shrek the Musical,Karen Minaya (Dragon)
+Ramapo HS (NJ),A Funny Thing Happened… Spencer Yacos (Erronius)
+Rye HS,Fiddler on the Roof,Sasha Spitz (Grandma Tzeitel)
+Tuckahoe HS,Sister Act,Jack Gramaglia (Curtis Jackson)
+Westlake HS,The Little Mermaid,Dean Kapica (Chef Louis)
+Hastings HS,Urinetown,Alessandro De Novellis (Old Man Strong)
+Northern Valley HS Old Tappan,Tarzan,Chris Schettino (Terk)
+Peekskill HS,The Little Mermaid,Justin Hahn (Scuttle)
+Rye Neck HS,Legally Blonde,Isaak Meier (Kyle O’Boyle)
+Tappan Zee HS,Curtains,Braeden Stout (Christopher Belling)
+Walter Panas HS,Monty Python’s Spamalot,Ryan Moore (Sir Robin)
+Dobbs Ferry HS,The Addams Family,Elizabeth Poccia (Grandma)
+Fair Lawn HS,Bloody Bloody Andrew Jackson,Erin Murray (Storyteller)
+Hackensack HS,Urinetown,Sophia Wright (Little Sally)
+Northern Highlands HS,25th Annual Put. Cty Spelling Bee 
+Kalie Gree (Leaf Coneybear)
+Peekskill HS,The Little Mermaid,Arianna Hurtado (Chef Louis/Flounder)
+Bergen County Academies,Hot Mikado,Eboni Edwards (The Mikado)
+Blind Brook HS,Grease,Ryan Vogt (Eugene)
+Harrison HS,The Addams Family,Allie Coonin (Moon Dancer)
+Immaculate Conception HS,The Little Mermaid,Samantha Duke (Scuttle)
+Lakeland HS,Urinetown,Una McMahan (Little Becky Two Shoes)
+Putnam Valley HS,Billy Elliot,James Caposito (Billy Elliot)
+Sleepy Hollow HS,Pippin,Jashon Sample (Leading Player)
+St. Joseph Reg HS,West Side Story,John Santino (Dream Ballet & John)
+Tappan Zee HS,Curtains,Brittany Lucas (Bambi Bernet)
+Academy of the Holy Angels,Mystery of Edwin Drood,Ariela Pizza (Deirdre Peregrine/Rose Bud)
+Bergen County Academies,Hot Mikado,Claire Kwon (Pitti,Sing)
+Clarkstown South HS,All Shook Up,Rebecca Zeller (Natalie)
+Edgemont HS,Love’s Labour’s Lost,Julia Fondiller (Jacquenetta)
+Pearl River HS,The Little Mermaid,Julia O’Sullivan (Ariel)
+Ramsey HS,All Shook Up,Francesca Guthrie (Sylvia)
+Salesian HS,Sweeney Todd,Julia O’Sullivan (Joanna)
+Sleepy Hollow HS,Pippin,Mary Delvecchio (Catherine)
+Westlake HS,The Little Mermaid,Olivia Schettino (Ariel)
+Archbishop Stepinac HS,The Hunchback of Notre Dame,“Someday”
+Marc DeSanctis (Phoebus) & Gabbie Sanson (Esmeralda)
+Harrison HS,The Addams Family “Live Before We Die”
+Timothy Morris (Gomez) &  Gianna Prignano (Morticia)
+Kennedy Catholic HS,The Boyfriend “I Could Be Happy With You”
+Jillian Flynn (Polly Browne) & Dominick Basilone (Tony)
+North Rockland HS,Les Miserables “A Little Fall of Rain”
+Stephen Rush (Marius) & Bianca Devaney (Eponine)
+Pascack Valley HS,Pippin “Love Song”
+Ryan Muska (Pippin) & Amy Santo (Catherine)
+Ramapo HS (NY),The Addams Family  “Pulled”
+Layloni Middleton (Wednesday) & Nathan Powell (Pugsley)
+Rye Neck HS,Legally Blonde  “Legally Blonde”
+Rachel Wurzberger (Elle) & Justin Sturgis (Emmett Forrest)
+St. Joseph Reg HS,West Side Story  “Tonight”
+Emma Piazza (Maria) and Alex Birchwale (Tony)
+Walter Panas HS,Monty Python’s Spamalot “The Song That Goes Like This”
+Lilli Oliviero (Lady of the Lake) & Danny Milkis (Sir Galahad)
+Woodlands HS,Seussical “Alone in the Universe”
+Athena Scott (Horton) & Liam Torchia (JoJo)
+Archbishop Stepinac HS,The Hunchback of Notre Dame
+Bergen County Academies,Hot Mikado
+Fair Lawn HS,Bloody Bloody Andrew Jackson
+Harrison HS,The Addams Family
+Northern Highlands HS,25th Annual Put. Cty Spelling Bee 
+Northern Valley HS Old Tappan,Tarzan
+Putnam Valley HS,Billy Elliot
+Sleepy Hollow HS,Pippin
+Bergen County Academies,Hot Mikado “Topsy Turvy”
+Clarkstown South HS,All Shook Up “All Shook Up”
+Fairlawn HS,Bloody Bloody Andrew Jackson “Populism & Yea & Yea!”
+Pascack Valley HS,Pippin,“Magic to Do”
+Putnam Valley HS,Billy Elliot,“Solidarity”
+Ramapo HS (NY),The Addams Family,“Full Disclosure”
+Ramsey HS,All Shook Up,“Burnin’ Love”
+Rye Country Day School,All Shook Up,“Heartbreak Hotel”
+Valhalla HS,Bye Bye Birdie,“A Healthy & Normal American Boy”
+Walter Panas HS,Monty Python’s Spamalot,“Knights of the Round Table”
+Alexander Hamilton HS,Seussical,Dana,Renee Grosvenor (Young Kangaroo)
+Brewster HS,Mary Poppins,Brooke Ryan (Jane Banks)
+Mahwah HS,The Sound of Music,Emma Kellner (Gretl)
+North Rockland HS,Les Miserables,Jordan Baez (Gavroche)
+Northern Valley HS Old Tappan,Tarzan,Zoe Fleury (Young Tarzan)
+Sleepy Hollow HS,Pippin,Samantha Marie Beadle (Theo)
+Alexander Hamilton HS,Seussical,Frank Zambrano (Drums)
+Bergen County Academies,Hot Mikado,Jicheol Ha (Piano)
+Clarkstown South HS,All Shook Up,Sarah Jang (Keyboard)
+Edgemont HS,Love’s Labour’s Lost,James Brandfonbrener (Keyboard 1 & Tuba)
+Kennedy Catholic HS,The Boyfriend,Nicholas Tinger (Piano)
+Rye High School,Fiddler on the Roof,Peter Tkatchenko (Violin)
+Rye Country Day School,All Shook Up,Noah Swan (Guitar)
+Academy of the Holy Angels,Mystery of Edwin Drood
+Bergen County Academies,Hot Mikado
+Lodi HS,Cinderella
+Paramus HS,Cinderella
+Pascack Valley HS,Pippin
+Ramsey HS,All Shook Up
+Westwood HS,Beauty and the Beast
+Woodlands HS,Seussical
+Academy of the Holy Angels,The Mystery of Edwin Drood
+Archbishop Stepinac HS,The Hunchback of Notre Dame
+Brewster HS,Mary Poppins
+Fair Lawn HS,Bloody Bloody Andrew Jackson
+Harrison HS,The Addams Family
+North Rockland HS,Les Miserables
+Paramus HS,Cinderella
+Sleepy Hollow HS,Pippin
+Academy of the Holy Angels,Mystery of Edwin Drood,Kyra Cseh & Katarina Katazarov
+Alexander Hamilton HS,Seussical,Laurie Abate & Sabrina Dolittle
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Emma and Carole Mendelson
+Lakeland HS,Urinetown,Jennilee Aromando
+Northern Valley HS Old Tappan,Tarzan,11th Grade Company Members
+Pearl River HS,The Little Mermaid,Jean Beckerle
+St. Joseph Reg HS,West Side Story,Stephanie Zitelli & Lou Zaccaro
+Valhalla HS,Bye Bye Birdie,Nancy Dillon and Denise Pfeifer
+Academy of the Holy Angels,Mystery of Edwin Drood,Jessica Yale
+Kennedy Catholic HS,The Boyfriend,Caitlyn McKearney
+Mahwah HS,The Sound of Music,Allan Chan
+Northern Highlands Reg HS,25th Annual Put Cty Spelling Bee,Kevin Schinnick & Krista Carpino
+Pleasantville HS,The Drowsy Chaperone,Cullen Dirgins & Madison Murray
+Ramapo HS (NJ),A Funny Thing Happened…– Jamie Manley
+Rye HS,Fiddler on the Roof,Katrina Roth
+Spring Valley HS,Nice Work If You Can Get It,Mary Luz Tagorda
+Academy of the Holy Angels,Mystery of Edwin Drood,Katie McSherry
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Frank Portanova
+Harrison HS,The Addams Family, Deborah Toteda
+Mount Vernon HS,Raisin,Evelyn Collins
+Northern Valley HS Old Tappan,Tarzan,Susan Van Buskirk
+Pleasantville HS,The Drowsy Chaperone,Kathleen Donovan,Warren
+Academy of the Holy Angels,Mystery of Edwin Drood,George Croom
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Chloe Sasson
+Bergen County Academies,Hot Mikado,Louis Spinelli
+Fair Lawn HS,Bloody Bloody Andrew Jackson,Charles Santoro
+Hastings HS,Urinetown,Bob Walton
+Pascack Valley HS,Pippin,Michael Mahadeen
+Rye HS,Fiddler on the Roof,Douglas Kostner
+St. Joseph Reg HS,West Side Story,John Zupan
+Academy of the Holy Angels,Mystery of Edwin Drood, Ariane Ryan
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Charlotte Newman & Francesca DeAngelo
+Bergen County Academies,Hot Mikado,Laurie Crochet
+Fair Lawn HS,Bloody Bloody Andrew Jackson,Sean Baldwin & John Giresi & Tami Maurer & Dustin Ballard
+Mount Vernon HS,Raisin,Monica Johnson & Samuel Reid
+Northern Valley HS Old Tappan,Tarzan,Alison Owusu
+Putnam Valley HS,Billy Elliot,Jennifer Jonas
+Academy of the Holy Angels,The Mystery of Edwin Drood,Ruth Morley
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Yon Zweibon & Samantha Irons
+Dobbs Ferry HS,The Addams Family,Amanda Newhouse & Dr. Caroline Matthew
+Don Bosco Prep,The Addams Family,Nancy Reynolds
+Kennedy Catholic HS,The Boyfriend,Annette Di Grandi
+Lakeland HS,Urinetown,Maria Norris
+Pleasantville HS,The Drowsy Chaperone,Amy Franks
+Northern Valley HS Old Tappan,Tarzan,Donna Dolby
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Andrew Gmoser
+Don Bosco Prep,The Addams Family,Ryan J Bell
+Fair Lawn HS,Bloody Bloody Andrew Jackson,Andrew Scharwath
+Harrison HS,The Addams Family,Silent G
+Northern Valley HS Old Tappan,Tarzan,Gerard MacMillan
+Rye Country Day School,All Shook Up,Jac,que Robinson
+Sleepy Hollow HS,Pippin,David DiLeo
+Tuckahoe HS,Sister Act,Andrew Gmoser
+Academy of the Holy Angels,Mystery of Edwin Drood,Anthony Freitas
+Archbishop Stepinac HS,The Hunchback of Notre Dame,Joe Lore & June Ricciardi
+Emerson HS,Into the Woods,Stella Sormani
+Pascack Valley HS,Pippin,Merielle Lupfer
+Pleasantville HS,The Drowsy Chaperone,James Britt
+Sleepy Hollow HS,Pippin,Zach Dore & Paul Rively
+Westwood HS,Beauty and the Beast,John Monton
+Archbishop Stepinac HS,Ryan Oates
+Pascack Valley HS,Jamie Ryu
+Pleasantville HS,Julia Hunt
+Alexander Hamilton HS,Kayla Gagliardo (Crew Captain)
+Archbishop Stepinac HS,Anthony Albanese (Student Stage Manager)
+Blind Brook HS,Madison Goldberg (Assistant Director)
+Brewster HS,Erin Clark (Crew Chief)
+Brewster HS,Dominick Walch  (Technical Director)
+Dobbs Ferry HS,Ray Flax (Technical Director)
+Emerson HS,Shannon Malone & Alyssa Teats & Alexis Bueti  (Stage Managers)
+Harrison HS,Jess Prado (Stage Manager)
+Harrison HS,Matt Novak (Student Director)
+Immaculate Conception HS,Ashley Buckman (Student Stage Manager)
+Immaculate Conception HS,Rebecca Leider  (Crew Chief)
+Immaculate Conception HS,Hannah Sancilio (Lighting Technician)
+Lakeland HS,Daniel DeLayo & Nancy Cobban (Student Lighting Designers)
+Lakeland HS,Una McMahon  (Student Choreographer)
+Lakeland HS,Maria Norris ( Student Costume Designer)
+Kennedy Catholic HS,Erin Sullivan (Student Assistant Director & Dance Captain)
+North Rockland HS,Michael Dorfman (Sound Designer)
+Northern Valley Old Tappan HS,Charlotte Giacomini  (Costume Design)
+Northern Valley Old Tappan HS,Kaelin McElduff (Choreography)
+Northern Valley Old Tappan HS,Megan Murphy (Makeup Design)
+Pearl River HS,Keri Tanner (Lighting Design)
+Pearl River HS,Jillian Fisher( Stage Manager)
+Pleasantville HS,Isabelle Minerva & Alden Iaconis & Tori Cahill
+(Crew Heads for Makeup and Hair)
+Putnam Valley HS,Elizabeth Tarrant (Production Stage Manager)
+Putnam Valley HS,Ella Torregrosa ( Production Stage Manager)
+Ramapo HS (NJ),Dahiana Arenas (Hair and Makeup Designer/Head of Green Room)
+River Dell HS,Jordan Auriemma (Student Choreographer)
+Rye HS,Hannah Blake (Stage Manager)
+Rye Country Day School,Angela Dogani (Production Stage Manager)
+Rye Neck HS,Jillian Hurlbut (Stage Manager)
+Sleepy Hollow HS,Payge Chebetar (Assistant Director/Stage Manager)
+Sleepy Hollow HS,Christopher Moriarty (Stage Crew Director/Crew Chief)
+Sleepy Hollow HS,Camille Marchini (Costume/Makeup Design)
+Valhalla HS,Kyra Hickey (Student Choreographer)
+Academy of the Holy Angels,The Mystery of Edwin Drood
+Archbishop Stepinac HS,The Hunchback of Notre Dame
+Brewster HS,Mary Poppins
+Harrison HS,The Addams Family
+Northern Valley HS Old Tappan,Tarzan
+Sleepy Hollow HS,Pippin
